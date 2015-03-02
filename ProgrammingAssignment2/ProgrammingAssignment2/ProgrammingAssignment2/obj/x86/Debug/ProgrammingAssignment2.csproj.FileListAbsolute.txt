@@ -1,0 +1,8 @@
+C:\Users\Tamar\Documents\Visual Studio 2010\Projects\GameProgrammingCoursera\ProgrammingAssignment2\ProgrammingAssignment2\ProgrammingAssignment2\bin\x86\Debug\Content\sprite0.xnb
+C:\Users\Tamar\Documents\Visual Studio 2010\Projects\GameProgrammingCoursera\ProgrammingAssignment2\ProgrammingAssignment2\ProgrammingAssignment2\bin\x86\Debug\Content\sprite1.xnb
+C:\Users\Tamar\Documents\Visual Studio 2010\Projects\GameProgrammingCoursera\ProgrammingAssignment2\ProgrammingAssignment2\ProgrammingAssignment2\bin\x86\Debug\Content\sprite2.xnb
+C:\Users\Tamar\Documents\Visual Studio 2010\Projects\GameProgrammingCoursera\ProgrammingAssignment2\ProgrammingAssignment2\ProgrammingAssignment2\bin\x86\Debug\ProgrammingAssignment2.exe
+C:\Users\Tamar\Documents\Visual Studio 2010\Projects\GameProgrammingCoursera\ProgrammingAssignment2\ProgrammingAssignment2\ProgrammingAssignment2\bin\x86\Debug\ProgrammingAssignment2.pdb
+C:\Users\Tamar\Documents\Visual Studio 2010\Projects\GameProgrammingCoursera\ProgrammingAssignment2\ProgrammingAssignment2\ProgrammingAssignment2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Tamar\Documents\Visual Studio 2010\Projects\GameProgrammingCoursera\ProgrammingAssignment2\ProgrammingAssignment2\ProgrammingAssignment2\obj\x86\Debug\ProgrammingAssignment2.exe
+C:\Users\Tamar\Documents\Visual Studio 2010\Projects\GameProgrammingCoursera\ProgrammingAssignment2\ProgrammingAssignment2\ProgrammingAssignment2\obj\x86\Debug\ProgrammingAssignment2.pdb
