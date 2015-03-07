@@ -1,0 +1,8 @@
+C:\Users\Tamar\Documents\Visual Studio 2010\Projects\GameProgrammingCoursera\ProgrammingAssignment3\ProgrammingAssignment3\ProgrammingAssignment3\bin\x86\Debug\Content\greenrock.xnb
+C:\Users\Tamar\Documents\Visual Studio 2010\Projects\GameProgrammingCoursera\ProgrammingAssignment3\ProgrammingAssignment3\ProgrammingAssignment3\bin\x86\Debug\Content\magentarock.xnb
+C:\Users\Tamar\Documents\Visual Studio 2010\Projects\GameProgrammingCoursera\ProgrammingAssignment3\ProgrammingAssignment3\ProgrammingAssignment3\bin\x86\Debug\Content\whiterock.xnb
+C:\Users\Tamar\Documents\Visual Studio 2010\Projects\GameProgrammingCoursera\ProgrammingAssignment3\ProgrammingAssignment3\ProgrammingAssignment3\bin\x86\Debug\ProgrammingAssignment3.exe
+C:\Users\Tamar\Documents\Visual Studio 2010\Projects\GameProgrammingCoursera\ProgrammingAssignment3\ProgrammingAssignment3\ProgrammingAssignment3\bin\x86\Debug\ProgrammingAssignment3.pdb
+C:\Users\Tamar\Documents\Visual Studio 2010\Projects\GameProgrammingCoursera\ProgrammingAssignment3\ProgrammingAssignment3\ProgrammingAssignment3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Tamar\Documents\Visual Studio 2010\Projects\GameProgrammingCoursera\ProgrammingAssignment3\ProgrammingAssignment3\ProgrammingAssignment3\obj\x86\Debug\ProgrammingAssignment3.exe
+C:\Users\Tamar\Documents\Visual Studio 2010\Projects\GameProgrammingCoursera\ProgrammingAssignment3\ProgrammingAssignment3\ProgrammingAssignment3\obj\x86\Debug\ProgrammingAssignment3.pdb
