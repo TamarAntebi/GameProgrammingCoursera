@@ -1,0 +1,11 @@
+C:\Users\Tamar\Documents\Visual Studio 2010\Projects\GameProgrammingCoursera\GameProject\GameProject\GameProject\bin\x86\Debug\Content\Arial20.xnb
+C:\Users\Tamar\Documents\Visual Studio 2010\Projects\GameProgrammingCoursera\GameProject\GameProject\GameProject\bin\x86\Debug\Content\burger.xnb
+C:\Users\Tamar\Documents\Visual Studio 2010\Projects\GameProgrammingCoursera\GameProject\GameProject\GameProject\bin\x86\Debug\Content\explosion.xnb
+C:\Users\Tamar\Documents\Visual Studio 2010\Projects\GameProgrammingCoursera\GameProject\GameProject\GameProject\bin\x86\Debug\Content\frenchfries.xnb
+C:\Users\Tamar\Documents\Visual Studio 2010\Projects\GameProgrammingCoursera\GameProject\GameProject\GameProject\bin\x86\Debug\Content\teddybear.xnb
+C:\Users\Tamar\Documents\Visual Studio 2010\Projects\GameProgrammingCoursera\GameProject\GameProject\GameProject\bin\x86\Debug\Content\teddybearprojectile.xnb
+C:\Users\Tamar\Documents\Visual Studio 2010\Projects\GameProgrammingCoursera\GameProject\GameProject\GameProject\bin\x86\Debug\GameProject.exe
+C:\Users\Tamar\Documents\Visual Studio 2010\Projects\GameProgrammingCoursera\GameProject\GameProject\GameProject\bin\x86\Debug\GameProject.pdb
+C:\Users\Tamar\Documents\Visual Studio 2010\Projects\GameProgrammingCoursera\GameProject\GameProject\GameProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Tamar\Documents\Visual Studio 2010\Projects\GameProgrammingCoursera\GameProject\GameProject\GameProject\obj\x86\Debug\GameProject.exe
+C:\Users\Tamar\Documents\Visual Studio 2010\Projects\GameProgrammingCoursera\GameProject\GameProject\GameProject\obj\x86\Debug\GameProject.pdb
